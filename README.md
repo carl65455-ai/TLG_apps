@@ -9,7 +9,7 @@ Production-ready monorepo for viewing 3D models in the browser. GLB/GLTF are loa
 ## Fast Install (LAN Dev)
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/carl65455-ai/TLG_apps.git
 cd 3D_WebViewer
 npm install
 cp .env.example .env
