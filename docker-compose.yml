@@ -1,0 +1,6 @@
+services:
+  converter:
+    build:
+      context: ./docker/converter
+    ports:
+      - "7070:7070"
